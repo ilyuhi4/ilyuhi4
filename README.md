@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilyuhi4
 - 👀 I’m interested in Freediving, Python, Django 
-- 🌱 I’m currently learning DL
+- 🌱 I’m currently do my pet-Django Project 
 - 💞️ I’m looking to collaborate on Django Projects
 - 📫 You can contact me by email.
 
